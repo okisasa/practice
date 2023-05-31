@@ -1,3 +1,4 @@
 first
 gitの練習です。
 git.status
+git.diff
